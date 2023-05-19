@@ -15,5 +15,3 @@
 | Rogue | Hero |  Female      | Absorb the powers and memories of anyone she touches skin-to-skin.  | 
 | Beast| Hero |  Male      | Possesses enhanced strength, agility, and an animal-like appearance.  | 
 | Iceman| Hero |  Male      | Generate and manipulate ice.   | 
-
-> 
